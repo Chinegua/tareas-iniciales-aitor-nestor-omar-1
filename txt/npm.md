@@ -4,7 +4,7 @@ NPM (node package manager) es el gestor de paquetes javascript de NODE.JS por ex
 
 ## Como instalar y usar npm
 
-:::bash 
+:::console
 npm init
 
 Con el comando anterior inicializamos npm.
