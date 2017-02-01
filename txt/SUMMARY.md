@@ -6,6 +6,7 @@
 * [gh-pages](gh_pages.md)
     * [Módulo gh-pages (automatizar)](modulo_gh.md)
 * [Github](github.md)
+	* [Git](git.md)
 	* [Github Desktop](github_desktop.md)
 	* [Gitbook](gitbook.md)
 * [Pandoc](pandoc.md)
