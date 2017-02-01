@@ -20,4 +20,4 @@
 # Autores
 * [Aitor Bernal Falcón](https://chinegua.github.io/)
 * [Néstor García Moreno](https://nestor-gm.github.io/)
-* Omar Mendo Mesa
+* [Omar Mendo Mesa](https://ozzrocker95.github.io/)
