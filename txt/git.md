@@ -16,13 +16,13 @@ Git se puede instalar de varias maneras, ya sea por código fuente o mediante la
 
 ##Instalación para Linux
 
-Dependiendo de la distribución que el usuario esté utilizando, se puede realizar de dos maneras. Si el usuario usa una distribución basada en Fedora, usaremos el comando *yum*
+Dependiendo de la distribución que el usuario esté utilizando, se puede realizar de dos maneras. Si el usuario usa una distribución basada en Fedora, usaremos el comando **yum**
 
 ```she
 yum install git-core
 ```
 
-Si al contrario, usa una distribución basada en Debian (como Ubuntu), usaremos *apt-get*
+Si al contrario, usa una distribución basada en Debian (como Ubuntu), usaremos **apt-get**
 
 ```she
 apt-get install git
@@ -30,7 +30,7 @@ apt-get install git
 
 ##Instalación para Mac
 
-La manera más sencilla es mediante el instalador gráfico de Git, pero si en este caso tenemos instalado *Homebrew*, lo haremos por este método.
+La manera más sencilla es mediante el instalador gráfico de Git, pero si en este caso tenemos instalado **Homebrew**, lo haremos por este método.
 
 ```she
 brew install git
