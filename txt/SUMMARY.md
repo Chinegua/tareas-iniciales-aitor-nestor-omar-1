@@ -4,7 +4,7 @@
     * [Package.JSON](package_json.md)
     * [Gulp](gulp.md)
 * [gh-pages](modulo_gh.md)
-    * [Módulo gh-pages (automatizar)](modulo_gh.md)
+    * [Módulo gh-pages (automatizar)](automatizar_ghpages.md)
 * [Github](github.md)
 	* [Git](git.md)
 	* [Github Desktop](github_desktop.md)
