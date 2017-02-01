@@ -15,7 +15,7 @@ Tras esto, se iniciará el instalador gráfico de GitHub Desktop, por lo que es 
 
 ![](../images/c2.png)
 
-Tendremos que linkear nuestra cuenta de GitHub para que podamos usar nuestros repositorios en la versión de escritorio.
+Tendremos que linkear nuestra cuenta de *GitHub* para que podamos usar nuestros repositorios en la versión de escritorio.
 
 ![](../images/c3.png)
 
