@@ -1,3 +1,4 @@
+
 #GitHub Desktop
 ###Versión de escritorio de la plataforma de desarrollo más usada en la actualidad
 
@@ -22,3 +23,6 @@ Tendremos que linkear nuestra cuenta de *GitHub* para que podamos usar nuestros 
 Tras seguir con los pasos del instalador, tendremos la interfaz lista para usar.
 
 ![](../images/c4.png)
+
+
+

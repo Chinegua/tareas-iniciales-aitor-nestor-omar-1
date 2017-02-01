@@ -1,5 +1,6 @@
-#Git
-###Software de control de versiones
+
+# Git
+### Software de control de versiones
 
 Git fue creado pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
@@ -10,11 +11,11 @@ Algunas de las características más importantes de Git son:
   * Gestión eficiente de proyectos grandes
   * Realmacenamiento periódico en paquetes
 
-#Cómo instalar Git
+# Cómo instalar Git
 
 Git se puede instalar de varias maneras, ya sea por código fuente o mediante la instalación de paquetes para la plataforma que use el usuario, pero se suele usar más por código fuente (Mac/Linux) por la facilidad de la instalación.
 
-##Instalación para Linux
+## Instalación para Linux
 
 Dependiendo de la distribución que el usuario esté utilizando, se puede realizar de dos maneras. Si el usuario usa una distribución basada en Fedora, usaremos el comando **yum**
 
@@ -28,7 +29,7 @@ Si al contrario, usa una distribución basada en Debian (como Ubuntu), usaremos 
 apt-get install git
 ```
 
-##Instalación para Mac
+## Instalación para Mac
 
 La manera más sencilla es mediante el instalador gráfico de Git, pero si en este caso tenemos instalado **Homebrew**, lo haremos por este método.
 
@@ -36,7 +37,7 @@ La manera más sencilla es mediante el instalador gráfico de Git, pero si en es
 brew install git
 ```
 
-##Instalación para Windows
+## Instalación para Windows
 
 Instalar Git en Windows es muy fácil. El proyecto msysGit tiene uno de los procesos de instalación más sencillos. Simplemente descarga el archivo exe del instalador desde la página de GitHub, y ejecútalo:
 
@@ -44,7 +45,7 @@ Instalar Git en Windows es muy fácil. El proyecto msysGit tiene uno de los proc
 http://msysgit.github.com/
 ```
 
-#Órdenes básicas de Git
+# Órdenes básicas de Git
 
 * Iniciar un repositorio vacío en una carpeta determinada
 
@@ -67,3 +68,5 @@ git commit -am "mensaje"
 ```she
 git status
 ```
+
+
