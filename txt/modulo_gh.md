@@ -15,3 +15,4 @@ $ git add .
 $ git commit -a -m "Añadiendo página del proyecto"
 $ git push origin gh-pages
 ```
+En caso de que queramos publicar el gitbook en nuestra pagina personal de github deberemos subir los ficheros .html que se encuentran en la carpeta _book una vez se ha ejecutado el comando ```gitbook build``` 
