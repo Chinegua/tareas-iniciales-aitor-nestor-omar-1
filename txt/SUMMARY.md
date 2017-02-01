@@ -3,7 +3,7 @@
 	* [npm](npm.md)
     * [Package.JSON](package_json.md)
     * [Gulp](gulp.md)
-* [gh-pages](gh_pages.md)
+* [gh-pages](modulo_gh.md)
     * [Módulo gh-pages (automatizar)](modulo_gh.md)
 * [Github](github.md)
 	* [Git](git.md)
