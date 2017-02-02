@@ -6,21 +6,21 @@ Como dice el título, *GitHub Desktop* es una aplicación o programa de escritor
 
 ##Instalación de GitHub Desktop
 
-1. Para comenzar la instalación, entramos en la página oficial de *GitHub Desktop*
+* Para comenzar la instalación, entramos en la página oficial de *GitHub Desktop*
           <https://desktop.github.com/>
 Al acceder a la página, directamente nos reconoce el sistema que el usuario está usando, y le damos a **Download GitHub Desktop**
 
 ![](../images/c1.png)
 
-2. Tras esto, se iniciará el instalador gráfico de GitHub Desktop, por lo que es seguir las instrucciones del instalador
+* Tras esto, se iniciará el instalador gráfico de GitHub Desktop, por lo que es seguir las instrucciones del instalador
 
 ![](../images/c2.png)
 
-3. Tendremos que linkear nuestra cuenta de *GitHub* para que podamos usar nuestros repositorios en la versión de escritorio.
+* Tendremos que linkear nuestra cuenta de *GitHub* para que podamos usar nuestros repositorios en la versión de escritorio.
 
 ![](../images/c3.png)
 
-4. Tras seguir con los pasos del instalador, tendremos la interfaz lista para usar.
+* Tras seguir con los pasos del instalador, tendremos la interfaz lista para usar.
 
 ![](../images/c4.png)
 
