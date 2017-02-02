@@ -50,7 +50,7 @@ http://msysgit.github.com/
 * Iniciar un repositorio vacío en una carpeta determinada
 
 ```she
-get init
+git init
 ```
 * Añadir un archivo específico
 ```she
