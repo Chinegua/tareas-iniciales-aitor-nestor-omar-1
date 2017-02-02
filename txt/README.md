@@ -1,5 +1,5 @@
 # Tareas Iniciales
-* Documentación nodeJS 
+* Documentación nodeJS
   * npm
   * Package.JSON
   * Gulp
@@ -19,6 +19,5 @@
 
 # Autores
 * [Aitor Bernal Falcón](https://chinegua.github.io/)
-* Néstor García Moreno
-* Omar Mendo Mesa 
-
+* [Néstor García Moreno](https://nestor-gm.github.io/)
+* [Omar Mendo Mesa](https://ozzrocker95.github.io/)
