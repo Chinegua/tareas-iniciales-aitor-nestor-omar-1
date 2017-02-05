@@ -10,7 +10,7 @@
 
 # Versión en GH-Pages
 
-[GH-Pages](https://chinegua.github.io/tareas-iniciales-aitor-nestor-omar/)
+[GH-Pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-aitor-nestor-omar/)
 
 
 # Versión Gitbook
