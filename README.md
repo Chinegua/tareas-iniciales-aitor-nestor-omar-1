@@ -17,6 +17,9 @@
 
 [Gitbook](https://chinegua.gitbooks.io/tareas-iniciales-aitornestoromar/content/)
 
+# Enlace al enunciado
+[Enunciado de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
+
 # Autores
 * [Aitor Bernal Falcón](https://chinegua.github.io/)
 * [Néstor García Moreno](https://nestor-gm.github.io/)
